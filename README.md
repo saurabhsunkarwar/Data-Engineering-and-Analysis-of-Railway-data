@@ -9,4 +9,4 @@ backend-assignment-sample-01, backend-assignment-sample-02 and backend-assignmen
 
 #Programming language used: Python
 
-File1_C, File2_C and File3_C are the required cleaned files for analysis which are further processed using pandas library of python using google colaboratory.
+File1_C, File2_C and File3_C are the required clean files for analysis which are further processed using pandas library of python in google colaboratory.
