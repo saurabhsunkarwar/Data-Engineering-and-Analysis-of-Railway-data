@@ -1,5 +1,9 @@
 # data_cleaning
-Performed data cleaning train data
+Performed data cleaning on train data
+
+#Incoming data:
+
+backend-assignment-sample-01,backend-assignment-sample-02 and backend-assignment-sample-03.
 
 #Tools used for data cleaning is Microsoft's Power BI:
 
